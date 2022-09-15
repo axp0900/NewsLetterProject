@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+.main {
+    padding: 15rem 0;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+p {
+    font-size:20px;
+    margin: 0;
+}
+
+.success_img {
+    margin: 2rem;
+}
